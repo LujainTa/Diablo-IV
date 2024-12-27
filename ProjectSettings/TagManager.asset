@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - HealthPotion
+  - RuneFragment
+  - Barbarian
+  - Sorcerer
+  - Erika
+  - Demon
+  - Minion
+  - Enemy
+  - Boss
+  - NavMeshSurface
+  - Gate
+  - arrow
+  - arrowloc
+  - ARROWMO
+  - Ground
+  - Ability 3 cover
+  - Ability 1 cover
+  - Ability 2 cover
+  - Pick
+  - GameOver
+  - ShieldHealthSlider
+  - BarbarianHUD
+  - SorcererHUD
+  - RogueHUD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - EnemyCamp
+  - Water
+  - UI
+  - 
+  - icon
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
